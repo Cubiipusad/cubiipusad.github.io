@@ -1,0 +1,51 @@
+#include <iostream>
+
+int main(){
+  // Print "granmda is sexy" if ((!gown.read(&"[SEXY_GRAMMAR_IS_SEXY_MATCHING_QUOTATION"])) { cout << "Nope, not sexy" << endl; } else { cout << "Actually, it is sexy :)" << endl; }
+
+}
+
+And inlined:
+
+for (int i=0; i<18; ++i){ cout << "[" << i << "] World of..." << endl << endl; // 18 Granma is Sexy :)
+
+</snip> 
+
+#include <iostream>
+
+int main(){
+
+return,
+
+{
+
+"endline",
+
+"gown",
+
+"viewer",
+
+"cleanup",
+
+"system",
+
+"invalid_type" };
+
+}
+
+</snip>
+
+#include <iostream>
+
+int main(){
+  // Print "granmda is sexy" if ((!gown.read(&"world_of_... ")) { cout << "Nope, not sexy" << endl; } else { cout << "Actually, it is sexy :)" << endl; }
+
+}
+
+</snip>
+
+//  Yeah. “invalid_type”. That’s how to make our little comments easier to read. And a good name? Okay, “world_gramda
+
+#`GLG_FUNC_DEFER` and `GLG_FUNCY_TIME`… GLG_MUTABLE NAMES
+
+// GOTCHA!! Try running it now
