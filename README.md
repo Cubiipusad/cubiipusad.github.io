@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+for any of my serious stuff go to the volcanic eruption thingy
+
 INT. THE GRIFFIN HOUSE - LIVING ROOM
 
 Peter and Cleveland are sitting on the couch, watching TV.
